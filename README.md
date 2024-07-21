@@ -1,2 +1,2 @@
-#Implemented Cross-Word Puzzle
-##Details in CL_report.pdf
+Implemented Cross-Word Puzzle
+Details in CL report.pdf
