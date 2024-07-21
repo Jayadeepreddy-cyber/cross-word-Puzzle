@@ -1,2 +1,2 @@
 Implemented Cross-Word Puzzle
-<br \>Details in CL report.pdf
+<br />Details in CL report.pdf
